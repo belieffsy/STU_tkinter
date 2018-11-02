@@ -354,5 +354,4 @@ menu.add_cascade(label="帮助(H)",menu=Hmenu)
 Hmenu.add_command(label="查看关于帮助")
 Hmenu.add_command(label="About...",command=About)
 
-
 root.mainloop()
